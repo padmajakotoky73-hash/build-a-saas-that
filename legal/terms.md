@@ -1,26 +1,27 @@
 **Terms of Service for Build-a-SaaS-that by ForgeOS Inc.**  
 
 **1. Usage**  
-You may use Build-a-SaaS-that to create and manage SaaS applications under these terms. Don’t misuse the service (e.g., hacking, spamming, or illegal activities). We may suspend accounts violating these rules.  
+You may use Build-a-SaaS-that to create and manage SaaS applications. You agree not to misuse the service (e.g., hacking, spamming, or illegal activities). ForgeOS may suspend accounts violating these terms.  
 
 **2. Payments**  
-Fees are billed monthly or annually, as chosen. You’re responsible for timely payments. Late payments may result in service suspension. Prices may change with 30 days’ notice.  
+Fees are billed monthly or annually based on your plan. You must provide accurate payment details. Unpaid accounts may be paused or terminated.  
 
 **3. Refunds**  
-No refunds for partial months or unused features. If we cancel your service unfairly, we’ll refund a prorated amount.  
+No refunds for partial months. Annual plan cancellations may qualify for prorated refunds at ForgeOS’s discretion.  
 
 **4. Intellectual Property**  
-You own your SaaS content and data. ForgeOS owns the platform and its code. Don’t copy, reverse-engineer, or resell our tech.  
+You retain ownership of your SaaS content. ForgeOS owns all platform code, tools, and trademarks.  
 
 **5. Liability**  
-We’re not liable for lost profits, data, or damages from using Build-a-SaaS-that. We provide the service “as is” without warranties.  
+ForgeOS is not liable for indirect damages (e.g., lost profits). Service is provided "as-is" without warranties.  
 
 **6. Changes**  
-We may update these terms with 30 days’ notice. Continued use means acceptance.  
+ForgeOS may update these terms with 30 days’ notice. Continued use means acceptance.  
 
 **7. Termination**  
-Either party may cancel with 30 days’ notice. We may terminate immediately for violations.  
+Either party may terminate with 30 days’ notice. ForgeOS may terminate immediately for violations.  
 
-By using Build-a-SaaS-that, you agree to these terms.  
+*Last Updated: [Date]*  
+*Contact: legal@forgeos.com*  
 
-*Last updated: [Date]*
+(Word count: ~200) Adjust as needed.
